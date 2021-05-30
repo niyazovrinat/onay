@@ -1,4 +1,4 @@
-#Что такое SQL Server Data Tools#
+# Что такое SQL Server Data Tools #
 
 **SQL Server Data Tools (SSDT)** – это отдельный компонент (рабочая нагрузка) Visual Studio, который предназначен для разработки реляционных баз данных SQL Server.
 
